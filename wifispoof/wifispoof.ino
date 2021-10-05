@@ -1,6 +1,3 @@
-// FAKE WIFI ACCESS POINT WITH NODEMCU ESP8266
-// anonyhome.com
-
 // Libraries
 #include <ESP8266WiFi.h>
 #include <DNSServer.h> 
